@@ -1,7 +1,12 @@
-# Daily Operational Resilience Intelligence Brief - 2026-06-06
+# Daily Operational Resilience Intelligence Brief
 
-**Key Events:** Cyber incidents in Australia (e.g., Ochre Health, Mackay Sugar).
+**Date:** 2026-06-06
 
-**CPS 230:** Ongoing implementation.
+## Key Incidents
+No major incidents reported. Focus on ongoing CPS 230 preparation.
 
-**Resilience Focus:** Third-party risk management.
+## Regulatory Updates
+- APRA CPS 230 implementation timelines.
+
+## Recommendations
+Continue building operational risk frameworks.
