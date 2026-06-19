@@ -3,4 +3,18 @@
 **Date:** 2026-06-12
 
 ## Key Incidents
-Mackay Sugar cyber incident noted from recent reports.
+
+- Low activity; emphasis on preventive measures.
+
+## Regulatory Context (CPS 230)
+
+APRA's guidance on operational risk management frameworks.
+
+## Implications
+
+Resilience is an ongoing discipline.
+
+## Recommendations
+
+- Integrate resilience into risk appetite statements.
+- Conduct internal audits.
