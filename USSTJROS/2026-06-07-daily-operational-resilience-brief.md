@@ -1,5 +1,9 @@
-# Daily Operational Resilience Intelligence Brief - 2026-06-07
+# Daily Operational Resilience Intelligence Brief
 
-**Key Events:** Monitoring ongoing cyber threats.
+**Date:** 2026-06-07
 
-**Recommendations:** Enhance incident response.
+## Key Incidents
+Routine monitoring. No significant events.
+
+## CPS 230
+Ongoing compliance efforts.
