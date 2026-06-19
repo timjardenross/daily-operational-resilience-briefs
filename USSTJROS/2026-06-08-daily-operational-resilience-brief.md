@@ -3,21 +3,15 @@
 **Date:** 2026-06-08
 
 ## Key Incidents
-
-- Low to moderate activity in reported operational disruptions. No major telco or cyber incidents widely reported in Australian context.
-- Focus on ongoing preparation for CPS 230 full implementation.
+- CPS 230 focus and cyber risks monitoring. No major reported disruptions in Australia on this date.
 
 ## Regulatory Context (CPS 230)
-
-APRA's Prudential Standard CPS 230 continues to drive entities toward stronger operational risk management, with emphasis on incident reporting within 72 hours for material events and service provider oversight.
+APRA's CPS 230 Operational Risk Management standard continues to be a key focus, with entities preparing for full compliance requirements. Amendments provide clarity on material service providers.
 
 ## Implications for Operational Resilience
-
-- Entities should continue mapping critical operations and testing continuity plans.
-- Emphasis on third-party risk management ahead of July 2026 deadlines.
+Low incident day highlights the importance of proactive monitoring and third-party risk management to maintain resilience against cyber threats and operational disruptions.
 
 ## Recommendations
-
-- Review incident response protocols.
-- Conduct scenario planning for potential supply chain or network disruptions.
-- Ensure staff training on resilience measures.
+- Review material service provider contracts in line with CPS 230.
+- Conduct scenario testing for cyber incidents.
+- Ensure business continuity plans are up to date.
