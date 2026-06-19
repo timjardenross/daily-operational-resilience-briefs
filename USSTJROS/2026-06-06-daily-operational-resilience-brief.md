@@ -2,20 +2,21 @@
 
 **Date:** 2026-06-06
 
+**Title from Task:** CPS 230 updates & minor seismic
+
+## Executive Summary
+Operational resilience focus remains on CPS 230 implementation and monitoring minor seismic activity in APAC with potential flow-on effects. No major disruptions reported.
+
 ## Key Incidents
+- Minor seismic activity monitoring.
+- Ongoing CPS 230 compliance activities.
 
-- Limited public reports of major operational disruptions in Australia.
-- Ongoing monitoring of global cyber threats impacting financial services.
+## Regulatory Context
+APRA CPS 230 amendments emphasize operational risk management and third-party oversight.
 
-## Regulatory Context (CPS 230)
-
-APRA's CPS 230 requires entities to manage operational risks, including timely incident notification and service provider oversight. Preparations for July 2026 deadlines continue.
-
-## Implications for Operational Resilience
-
-Entities must strengthen mapping of critical operations and third-party dependencies.
+## Implications
+Low activity days allow for proactive strengthening of frameworks.
 
 ## Recommendations
-
-- Audit material service provider contracts.
-- Perform tabletop exercises for potential disruptions.
+- Continue mapping critical operations.
+- Test resilience plans for seismic-related disruptions.
